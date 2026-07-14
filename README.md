@@ -1,5 +1,7 @@
 # 🌾 Agentic AI Farm Intelligence System
 
+![Agritech Farm Banner](assets/hero-banner.svg)
+
 > Autonomous, multi-agent farm intelligence platform for crop monitoring, risk analysis, planning, and decision support.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -136,6 +138,15 @@ Agentic-AI-Farm-Intelligence-System-main/
 ---
 
 ## 🚀 Getting Started
+
+### Windows quick start
+```powershell
+git clone https://github.com/Vansh-Thakur-Sadyal/Agritech_Farm.git
+cd Agritech_Farm
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
 
 ### 1. Clone the repository
 ```bash
