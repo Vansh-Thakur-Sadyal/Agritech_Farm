@@ -195,7 +195,21 @@ Then visit:
 
 ---
 
-## 🔌 API Endpoints
+## � Demo Preview
+
+A simple dashboard experience is included for interacting with the system and observing the coordinated farm intelligence workflow.
+
+You can expect to see:
+- a control panel for farm inputs and field conditions
+- agent-driven analysis results
+- a chatbot-style interaction panel
+- monitoring and planning feedback from the backend pipeline
+
+> Add a screenshot of the dashboard to the repository later and replace this placeholder section with a real image preview.
+
+---
+
+## �🔌 API Endpoints
 
 The backend exposes the following main endpoints:
 
