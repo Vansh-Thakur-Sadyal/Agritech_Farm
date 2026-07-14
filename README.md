@@ -177,10 +177,14 @@ MISTRAL_API_KEY=your-api-key-here
 ```
 
 ### 5. Start the backend
+Make sure you have created and activated your virtual environment and installed `requirements.txt` first.
+
 ```bash
 cd backend
 python -m uvicorn api.server:app --reload --host 0.0.0.0 --port 8001
 ```
+
+This command runs the FastAPI backend server with live reload enabled.
 
 ### 6. Start the frontend
 From the project root, open the frontend in a simple static server:
