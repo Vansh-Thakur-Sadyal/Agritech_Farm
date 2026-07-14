@@ -7,6 +7,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-green.svg)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Multi-Agent AI](https://img.shields.io/badge/AI-Multi--Agent%20Farm%20Orchestrator-green.svg)](https://github.com/Vansh-Thakur-Sadyal/Agritech_Farm)
 [![GitHub](https://img.shields.io/badge/GitHub-Agritech__Farm-blue?logo=github)](https://github.com/Vansh-Thakur-Sadyal/Agritech_Farm)
 
 ---
@@ -199,13 +200,13 @@ Then visit:
 
 A simple dashboard experience is included for interacting with the system and observing the coordinated farm intelligence workflow.
 
+![Agritech Farm Dashboard Preview](assets/hero-banner.svg)
+
 You can expect to see:
 - a control panel for farm inputs and field conditions
 - agent-driven analysis results
 - a chatbot-style interaction panel
 - monitoring and planning feedback from the backend pipeline
-
-> Add a screenshot of the dashboard to the repository later and replace this placeholder section with a real image preview.
 
 ---
 
