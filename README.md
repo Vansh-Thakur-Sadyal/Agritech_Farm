@@ -44,8 +44,10 @@ FastAPI Backend
         ↓
 Agent Orchestrator
    ├─ Agent 1: Data Collection & Standardization
-   ├─ Agent 2: Analysis & Risk Intelligence
-   └─ Agent 3: Decision Planning
+   ├─ Agent 2: Analytics & Risk Intelligence
+   ├─ Agent 3: Decision Planning
+   ├─ Agent 4: Monitoring & Feedback
+   └─ Agent 5: Memory & Learning
 ```
 
 ---
@@ -77,6 +79,24 @@ Features include:
 - Strategy generation
 - Planning support for yield and sustainability goals
 - Integration with monitoring and memory workflows
+
+### Agent 4: Monitoring & Feedback
+Continuously observes farm conditions, assesses risk patterns, and provides feedback for safer and more reliable operations.
+
+Features include:
+- Real-time performance monitoring
+- Alert generation for stress signals
+- Feedback to improve agent decisions
+- Health and risk tracking
+
+### Agent 5: Memory & Learning
+Maintains historical system data, remembers past runs, and helps the system learn from previous outcomes.
+
+Features include:
+- Memory storage for past workflows
+- Learning from historical performance
+- Better recommendations over time
+- Support for adaptive planning
 
 ---
 
