@@ -6,7 +6,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-green.svg)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Multi-Agent AI](https://img.shields.io/badge/AI-Multi--Agent%20Farm%20Orchestrator-green.svg)](https://github.com/Vansh-Thakur-Sadyal/Agritech_Farm)
 [![GitHub](https://img.shields.io/badge/GitHub-Agritech__Farm-blue?logo=github)](https://github.com/Vansh-Thakur-Sadyal/Agritech_Farm)
 
@@ -256,7 +256,7 @@ Please keep code clean, document new features, and add tests where appropriate.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ---
 
